@@ -26,7 +26,7 @@
   - **JS**
   - **TensorFlow**(Python)
 - 💞️ I’m looking to collaborate on ... *(nothing specific at the moment)*
-- 📫 How to reach me ***Website under Construction ⚠**
+- 📫 How to reach me **Discord:** id.boystro#3620
 ---
 
 ## Detailed Info
