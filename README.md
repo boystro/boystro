@@ -1,7 +1,7 @@
 # Hi, I am 👋 Indranil Das
 <img src="static/cover.svg" />
 
-_A Passionate Software Developer trying to learn something new everyday_
+### _A Passionate Software Developer trying to learn something new everyday_
 
 ## Technical Skills Highlight 💻
 |||
@@ -24,7 +24,7 @@ _A Passionate Software Developer trying to learn something new everyday_
 
 🔭**Currently Working on :** Feedback System Application for my University  
 🌱**Currently Learning :** Flutter, Pytorch  
-💬**Ask me About :** Anything
+💬**Ask me About :** Anything  
 📧**Contact Me :** <a href="mailto:indranildas06@gmail.com">indranildas06@gmail.com</a>  
 ⚡**Fun Fact :** I can make you
 
