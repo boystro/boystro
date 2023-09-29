@@ -22,8 +22,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-🔭**Currently Working on :** a Video Game
-🌱**Currently Learning :** Unity / C#
+🔭**Currently Working on :** a Video Game  
+🌱**Currently Learning :** Unity / C#  
 💬**Ask me About :** Anything  
 📧**Contact Me :** <a href="mailto:indranildas06@gmail.com">indranildas06@gmail.com</a>  
 ⚡**Fun Fact :** I can make you laugh
