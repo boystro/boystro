@@ -6,6 +6,7 @@
 ## Technical Skills Highlight 💻
 |||
 |---|---|
+|**Multi Platform**|![Flutter](https://img.shields.io/badge/flutter-%23042B59.svg?style=for-the-badge&logo=flutter&logoColor=027DFD)|
 |**Web Dev**|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase)|
 |**Game Dev**|![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)|
 |**Version Control**|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
@@ -21,9 +22,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-🔭**Currently Working on :** a Video Game  
-🌱**Currently Learning :** Unity / C#  
+🔭**Currently Working on :** a mobile app.
+🌱**Currently Learning :** 💸Money💸
 💬**Ask me About :** Anything  
 📧**Contact Me :** <a href="mailto:indranildas06@gmail.com">indranildas06@gmail.com</a>  
 ⚡**Fun Fact :** I can make you laugh
